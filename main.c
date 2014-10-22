@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "methods.h"
+444444
 
 //int method(int index, char type, int head, int expand, int length){
    // int str[length], i;
